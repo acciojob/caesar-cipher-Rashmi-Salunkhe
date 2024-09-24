@@ -1,0 +1,4 @@
+{
+    "testRepo": "caesar-cipher-solution",
+    "pathToFile": "cypress/integration/tests/test.spec.js"
+}
